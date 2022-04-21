@@ -1,0 +1,11 @@
+gensim==3.8.3
+language_tool_python==2.7.0
+nltk==3.7
+numpy==1.22.3
+pke==2.0.0
+PyQt5==5.15.6
+pytest==6.2.5
+rake_nltk==1.0.6
+scikit_learn==1.0.2
+scipy==1.8.0
+spacy==3.2.4
